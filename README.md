@@ -35,8 +35,8 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 <span style="display:inline-block; margin:5px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="78" alt="Seaborn"/></span>
 
 **Deep Learning Libraries:**  
-<span style="display:inline-block; margin:5px;"><img src="https://www.gstatic.com/devrel-devsite/prod/v030bcccda96ffbfc45363010bea8ba52e77f80d8de5da28f6cb7329ed55ead3b/tensorflow/images/lockup.svg" width="48" alt="TensorFlow"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://keras.io/img/logo.png" width="48" alt="Keras"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://www.gstatic.com/devrel-devsite/prod/v030bcccda96ffbfc45363010bea8ba52e77f80d8de5da28f6cb7329ed55ead3b/tensorflow/images/lockup.svg" width="68" alt="TensorFlow"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://keras.io/img/logo.png" width="68" alt="Keras"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://pytorch.org/assets/images/logo-icon.svg" width="48" alt="PyTorch"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" alt="Hugging Face"/></span>
 
@@ -49,17 +49,15 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 
 **Components and UIs:**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/material-ui.png" width="48" alt="Material UI"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/styled-components.png" width="48" alt="Styled Components"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/ant-design.png" width="48" alt="Ant Design"/></span>
 
 **Content Management Systems (CMS):**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/wordpress.png" width="48" alt="WordPress"/></span>
 
 **Databases:**  
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/mongodb.png" width="48" alt="MongoDB"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="48" alt="MongoDB"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/sql.png" width="48" alt="SQL"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/sqlite.png" width="48" alt="SQLite"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/plsql.png" width="48" alt="PL/SQL"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" alt="PostgreSQL"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/mysql.png" width="48" alt="MySQL"/></span>
 
 **Tools:**  
