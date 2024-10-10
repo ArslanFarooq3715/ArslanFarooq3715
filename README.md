@@ -42,7 +42,6 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 
 **CSS Frameworks/Libraries:**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" alt="Bootstrap"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/ajax.png" width="48" alt="AJAX"/></span>
 
 **JavaScript Frameworks/Libraries:**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="48" alt="React.js"/></span>
