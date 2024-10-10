@@ -25,14 +25,14 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" alt="HTML"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/css3.png" width="48" alt="CSS"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48" alt="JavaScript"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" width="48" alt="Jinja"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" width="78" alt="Jinja"/></span>
 
 **Machine Learning Libraries:**  
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="58" alt="Scikit-learn"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/numpy.png](https://numpy.org/images/logo.svg" width="48" alt="NumPy"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pandas.png" width="48" alt="Pandas"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://matplotlib.org/_static/logo_light.svg" width="48" alt="Matplotlib"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" alt="Seaborn"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="78" alt="Scikit-learn"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/numpy.png](https://numpy.org/images/logo.svg" width="78" alt="NumPy"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pandas.png" width="78" alt="Pandas"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://matplotlib.org/_static/logo_light.svg" width="78" alt="Matplotlib"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="78" alt="Seaborn"/></span>
 
 **Deep Learning Libraries:**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="48" alt="TensorFlow"/></span>
