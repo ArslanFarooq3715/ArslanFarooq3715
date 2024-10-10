@@ -13,7 +13,7 @@ One of my key strengths is adaptability; I thrive in both fast-paced and slower 
 | 1  | Software Developer & AI Engineer | E-9                               | September, 2023   | Currently Working   | Islamabad, Pakistan   | 
 | 2  | ML Engineer                      | Machine Learning 1                | November, 2022    | August, 2023        | Lahore, Pakistan      |
 | 3  | Data Analyst                     | Remote                            | July, 2020        | February, 2021      | Dhaka, Bangladesh     |
-| 4  | Freelance Web Developer          | Fiverr                            | January, 2020     | Currently Working   | Pakistan              |
+| 4  | Freelance Web Developer          | Fiverr                            | --------------    | ----------------   | Pakistan              |
 
 ## My Technologies
 
