@@ -28,11 +28,11 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 <span style="display:inline-block; margin:5px;"><img src="https://jinja.palletsprojects.com/en/3.1.x/_images/jinja-logo.png" width="48" alt="Jinja"/></span>
 
 **Machine Learning Libraries:**  
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="48" alt="Scikit-learn"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/numpy.png" width="48" alt="NumPy"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="58" alt="Scikit-learn"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/numpy.png](https://numpy.org/images/logo.svg" width="48" alt="NumPy"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pandas.png" width="48" alt="Pandas"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/matplotlib.png" width="48" alt="Matplotlib"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/seaborn.png" width="48" alt="Seaborn"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://matplotlib.org/_static/logo_light.svg" width="48" alt="Matplotlib"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" alt="Seaborn"/></span>
 
 **Deep Learning Libraries:**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="48" alt="TensorFlow"/></span>
