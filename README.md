@@ -30,7 +30,7 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 **Machine Learning Libraries:**  
 <span style="display:inline-block; margin:5px;"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="78" alt="Scikit-learn"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://numpy.org/images/logo.svg" width="78" alt="NumPy"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="78" alt="Pandas"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://pandas.pydata.org/static/img/pandas.svg" width="78" alt="Pandas"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://matplotlib.org/_static/logo_light.svg" width="78" alt="Matplotlib"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="78" alt="Seaborn"/></span>
 
