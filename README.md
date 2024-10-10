@@ -8,14 +8,12 @@ One of my key strengths is adaptability; I thrive in both fast-paced and slower 
 
 👨‍💼 **Experiences:**
 
-| No | Job Title                      | Company Name                     | Start Date     | End Date          | Location             |
-|----|--------------------------------|----------------------------------|-----------------|-------------------|----------------------|
-| 1  | Software Developer             | Taskco Digital                   | August, 2024    | Currently Working  | Dhaka, Bangladesh     |
-| 2  | Web Developer                  | Independent Television            | December, 2023  | April, 2024       | Dhaka, Bangladesh     |
-| 3  | Software Engineer              | Jadroo E-Commerce Ltd.           | April, 2023     | November, 2023    | Dhaka, Bangladesh     |
-| 4  | Software Engineer L1           | CoreXLab Ltd.                    | March, 2023     | April, 2023       | Dhaka, Bangladesh     |
-
-RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Under P-A-F Islamabad)
+| No | Job Title                        | Company Name                      | Start Date        | End Date            | Location              |
+|----|-------------------------------   |-----------------------------------|-------------------|---------------------|-----------------------|
+| 1  | Software Developer & AI Engineer | E-9                               | September, 2023   | Currently Working   | Islamabad, Pakistan   | 
+| 2  | ML Engineer                      | Machine Learning 1                | November, 2022    | August, 2023        | Lahore, Pakistan      |
+| 3  | Data Analyst                     | Remote                            | July, 2020        | February, 2021      | Dhaka, Bangladesh     |
+| 4  | Freelance Web Developer          | Fiverr                            | January, 2020     | Currently Working   | Pakistan              |
 
 ## My Technologies
 
