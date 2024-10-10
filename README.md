@@ -16,78 +16,79 @@ One of my key strengths is adaptability; I thrive in both fast-paced and slower 
 | 4  | Software Engineer L1           | CoreXLab Ltd.                    | March, 2023     | April, 2023       | Dhaka, Bangladesh     |
 
 RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Under P-A-F Islamabad)
+
 ## My Technologies
 
 **Programming Languages:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🐍 Python</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">⚛️ React.js</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🌐 HTML</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🎨 CSS</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">💻 JavaScript</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🔧 Jinja</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" alt="Python"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="48" alt="React.js"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" alt="HTML"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/css3.png" width="48" alt="CSS"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48" alt="JavaScript"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/jinja2.png" width="48" alt="Jinja"/></span>
 
 **Machine Learning Libraries:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📊 Scikit-learn</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📈 NumPy</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📉 Pandas</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📊 Matplotlib</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🌊 Seaborn</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="48" alt="Scikit-learn"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/numpy.png" width="48" alt="NumPy"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pandas.png" width="48" alt="Pandas"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/matplotlib.png" width="48" alt="Matplotlib"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/seaborn.png" width="48" alt="Seaborn"/></span>
 
 **Deep Learning Libraries:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🔥 TensorFlow</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🧠 Keras</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🐍 PyTorch</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🤗 Hugging Face</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="48" alt="TensorFlow"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/keras.png" width="48" alt="Keras"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pytorch.png" width="48" alt="PyTorch"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/hugging-face.png" width="48" alt="Hugging Face"/></span>
 
 **CSS Frameworks/Libraries:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📦 Bootstrap</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🌐 AJAX</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" alt="Bootstrap"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/ajax.png" width="48" alt="AJAX"/></span>
 
 **JavaScript Frameworks/Libraries:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">⚛️ React.js</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📜 jQuery</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ultraviolet/40/000000/react.png" width="48" alt="React.js"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/jquery.png" width="48" alt="jQuery"/></span>
 
 **Components and UIs:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🎨 Material UI</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">💅 Styled Components</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🛠️ Ant Design</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/material-ui.png" width="48" alt="Material UI"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/styled-components.png" width="48" alt="Styled Components"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/ant-design.png" width="48" alt="Ant Design"/></span>
 
 **Content Management Systems (CMS):**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📝 WordPress Theme Customization</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/wordpress.png" width="48" alt="WordPress"/></span>
 
 **Databases:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🍃 MongoDB</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🗄️ SQL</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🗄️ SQLite</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📊 PL/SQL</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🐬 MySQL</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/mongodb.png" width="48" alt="MongoDB"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/sql.png" width="48" alt="SQL"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/sqlite.png" width="48" alt="SQLite"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/plsql.png" width="48" alt="PL/SQL"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/mysql.png" width="48" alt="MySQL"/></span>
 
 **Tools:**  
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🖥️ VS Code</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🌿 Git</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🐱 GitHub</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🖥️ CLI</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🖥️ Terminal</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📦 NPM</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📬 Postman</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📧 Mail</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📅 Trello</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🗂️ Jira</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">💬 Microsoft Teams</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🐍 Anaconda</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📓 Jupyter Notebook</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🐍 PyCharm</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🐍 Spyder</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📦 Docker</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🚦 Apache Airflow</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📊 Tableau</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">☁️ Google Cloud Platform (GCP)</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">☁️ AWS (Amazon Web Services)</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">☁️ Microsoft Azure</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🔍 Selenium</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🎨 Figma</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🔗 Zapier</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📈 Elasticsearch</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">🗄️ Redis</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">⚡ FastAPI</a>
-<a href="#" style="display:inline-block; padding:10px; background-color:#f0f0f0; border-radius:5px; margin:5px;">📊 Streamlit</a>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/visual-studio-code.png" width="48" alt="VS Code"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/git.png" width="48" alt="Git"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/github.png" width="48" alt="GitHub"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/cli.png" width="48" alt="CLI"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/terminal.png" width="48" alt="Terminal"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/npm.png" width="48" alt="NPM"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/postman.png" width="48" alt="Postman"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/mail.png" width="48" alt="Mail"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/trello.png" width="48" alt="Trello"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/jira.png" width="48" alt="Jira"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/microsoft-teams.png" width="48" alt="Microsoft Teams"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/anaconda.png" width="48" alt="Anaconda"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/jupyter.png" width="48" alt="Jupyter Notebook"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pycharm.png" width="48" alt="PyCharm"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/spyder.png" width="48" alt="Spyder"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/docker.png" width="48" alt="Docker"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/apache-airflow.png" width="48" alt="Apache Airflow"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/tableau.png" width="48" alt="Tableau"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/google-cloud-platform.png" width="48" alt="GCP"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/aws.png" width="48" alt="AWS"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/microsoft-azure.png" width="48" alt="Azure"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/selenium.png" width="48" alt="Selenium"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/figma.png" width="48" alt="Figma"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/zapier.png" width="48" alt="Zapier"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/elasticsearch.png" width="48" alt="Elasticsearch"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/redis.png" width="48" alt="Redis"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/fastapi.png" width="48" alt="FastAPI"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/streamlit.png" width="48" alt="Streamlit"/></span>
