@@ -67,7 +67,7 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 <span style="display:inline-block; margin:5px;"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="48" alt="Postman"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" width="48" alt="Anaconda"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://jupyter.org/assets/homepage/main-logo.svg" width="48" alt="Jupyter Notebook"/></span>
-<span style="display:inline-block; margin:5px;"><img src="g" width="48" alt="Docker"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg" width="48" alt="Docker"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://help.tableau.com/current/pro/desktop/en-us/Resources/tableau-logo.png" width="48" alt="Tableau"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg" width="48" alt="GCP"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/aws.png" width="48" alt="AWS"/></span>
