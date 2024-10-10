@@ -35,10 +35,10 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 <span style="display:inline-block; margin:5px;"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="78" alt="Seaborn"/></span>
 
 **Deep Learning Libraries:**  
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="48" alt="TensorFlow"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/keras.png" width="48" alt="Keras"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pytorch.png" width="48" alt="PyTorch"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/hugging-face.png" width="48" alt="Hugging Face"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://www.gstatic.com/devrel-devsite/prod/v030bcccda96ffbfc45363010bea8ba52e77f80d8de5da28f6cb7329ed55ead3b/tensorflow/images/lockup.svg" width="48" alt="TensorFlow"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://keras.io/img/logo.png" width="48" alt="Keras"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://pytorch.org/assets/images/logo-icon.svg" width="48" alt="PyTorch"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" alt="Hugging Face"/></span>
 
 **CSS Frameworks/Libraries:**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" alt="Bootstrap"/></span>
