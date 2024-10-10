@@ -61,31 +61,17 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/mysql.png" width="48" alt="MySQL"/></span>
 
 **Tools:**  
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/visual-studio-code.png" width="48" alt="VS Code"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://code.visualstudio.com/assets/images/code-stable.png" width="48" alt="VS Code"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/git.png" width="48" alt="Git"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/github.png" width="48" alt="GitHub"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/cli.png" width="48" alt="CLI"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/terminal.png" width="48" alt="Terminal"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/npm.png" width="48" alt="NPM"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/postman.png" width="48" alt="Postman"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/mail.png" width="48" alt="Mail"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/trello.png" width="48" alt="Trello"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/jira.png" width="48" alt="Jira"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/microsoft-teams.png" width="48" alt="Microsoft Teams"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/anaconda.png" width="48" alt="Anaconda"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/jupyter.png" width="48" alt="Jupyter Notebook"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/pycharm.png" width="48" alt="PyCharm"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/spyder.png" width="48" alt="Spyder"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/docker.png" width="48" alt="Docker"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/apache-airflow.png" width="48" alt="Apache Airflow"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/tableau.png" width="48" alt="Tableau"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" width="48" alt="Postman"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" width="48" alt="Anaconda"/></span>
+<span style="display:inline-block; margin:5px;"><img src="https://jupyter.org/assets/homepage/main-logo.svg" width="48" alt="Jupyter Notebook"/></span>
+<span style="display:inline-block; margin:5px;"><img src="g" width="48" alt="Docker"/></span>
+<span style="display:inline-block; margin:5px;"><img src="data:image/png;base64,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" width="48" alt="Tableau"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/google-cloud-platform.png" width="48" alt="GCP"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/aws.png" width="48" alt="AWS"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/microsoft-azure.png" width="48" alt="Azure"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/selenium.png" width="48" alt="Selenium"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/figma.png" width="48" alt="Figma"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/zapier.png" width="48" alt="Zapier"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/elasticsearch.png" width="48" alt="Elasticsearch"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/redis.png" width="48" alt="Redis"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/fastapi.png" width="48" alt="FastAPI"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/streamlit.png" width="48" alt="Streamlit"/></span>
+
+
