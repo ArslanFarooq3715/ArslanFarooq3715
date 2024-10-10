@@ -17,6 +17,15 @@ One of my key strengths is adaptability; I thrive in both fast-paced and slower 
 
 RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Under P-A-F Islamabad)
 
+<div style="display: flex; gap: 10px;">
+    <span title="Software Developer">💻</span>
+    <span title="Web Developer">🌐</span>
+    <span title="Software Engineer">🛠️</span>
+    <span title="Software Engineer L1">🔧</span>
+    <span title="Associate Software Engineer">👨‍💻</span>
+    <span title="Freelance Web Developer">📝</span>
+    <span title="Trainer, RWD">📚</span>
+</div>
 
 ## Languages and Tools
 
