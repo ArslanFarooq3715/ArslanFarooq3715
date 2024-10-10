@@ -25,7 +25,7 @@ RWD = Responsive Web Design, LEDP = Learning & Earning Development Project (Unde
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" alt="HTML"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/css3.png" width="48" alt="CSS"/></span>
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48" alt="JavaScript"/></span>
-<span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/ios/50/000000/jinja2.png" width="48" alt="Jinja"/></span>
+<span style="display:inline-block; margin:5px;"><img src="[https://img.icons8.com/ios/50/000000/jinja2.png](https://en.wikipedia.org/wiki/Jinja_%28template_engine%29#/media/File:Jinja_software_logo.svg)" width="48" alt="Jinja"/></span>
 
 **Machine Learning Libraries:**  
 <span style="display:inline-block; margin:5px;"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="48" alt="Scikit-learn"/></span>
